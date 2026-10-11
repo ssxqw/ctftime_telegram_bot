@@ -182,6 +182,7 @@ python bot.py
 
 On Windows, [`install-task.ps1`](install-task.ps1) installs the bot as a background task that starts when you sign in.
 
+<div align="center">
 
 **Made for teammates who would rather solve challenges than chase event links.** 🐝
 
